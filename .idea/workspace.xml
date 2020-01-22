@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="artifact" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d16e5978-2bf0-4476-8d49-f0cd59c35baf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SGTTxZWpQ4974TirPWUZyLNI8j" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/zheng/loadbalance" />
+    <property name="last_opened_file_path" value="E:/svn project/TYGZMaJiangServer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5029412" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zheng.core" />
+      <recent name="com.zheng.server" />
+      <recent name="com.zheng.request" />
+      <recent name="com.zheng.loadbalance" />
+      <recent name="com.zheng.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zheng.netty" />
+      <recent name="com.zheng.mq" />
+      <recent name="com.zheng.strategy" />
+      <recent name="com.zheng.redis" />
+      <recent name="com.zheng.executor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.USER-20160915NL\IdeaProjects\serverpush\src\main\java\com\zheng\redis" />
+      <recent name="C:\Users\Administrator.USER-20160915NL\IdeaProjects\serverpush\src\main\java\com\zheng\msg" />
+      <recent name="C:\Users\Administrator.USER-20160915NL\IdeaProjects\serverpush\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.zheng.container.MyServer" />
+      <module name="server-push" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zheng.container.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClientBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NettyClientBootstrap" />
+      <module name="serverpush" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NettyClientBootstrap" />
+      <module name="server-push" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.NettyClientBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.NettyClientBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16e5978-2bf0-4476-8d49-f0cd59c35baf" name="Default Changelist" comment="" />
+      <created>1565677405159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565677405159</updated>
+      <workItem from="1565677409339" duration="27602000" />
+      <workItem from="1565854966207" duration="35369000" />
+      <workItem from="1566026633675" duration="6433000" />
+      <workItem from="1566089852615" duration="7969000" />
+      <workItem from="1566125288994" duration="18967000" />
+      <workItem from="1566274915180" duration="25338000" />
+      <workItem from="1566368415346" duration="696000" />
+      <workItem from="1566390395477" duration="4931000" />
+      <workItem from="1566472369143" duration="1835000" />
+      <workItem from="1566540525030" duration="7424000" />
+      <workItem from="1566624469795" duration="551000" />
+      <workItem from="1566715192880" duration="26872000" />
+      <workItem from="1566800577469" duration="9492000" />
+      <workItem from="1566956695718" duration="25632000" />
+      <workItem from="1567174654887" duration="425000" />
+      <workItem from="1567229114233" duration="4542000" />
+      <workItem from="1567235167626" duration="31219000" />
+      <workItem from="1567317870726" duration="33237000" />
+      <workItem from="1567406707695" duration="18283000" />
+      <workItem from="1567511234335" duration="796000" />
+      <workItem from="1567581442044" duration="583000" />
+      <workItem from="1568034613018" duration="563000" />
+      <workItem from="1568378744189" duration="2326000" />
+      <workItem from="1568441276207" duration="4820000" />
+      <workItem from="1568470691415" duration="1949000" />
+      <workItem from="1569032116916" duration="361000" />
+      <workItem from="1569033683241" duration="606000" />
+      <workItem from="1569047148599" duration="2759000" />
+      <workItem from="1569063901545" duration="65000" />
+      <workItem from="1569063991874" duration="31000" />
+      <workItem from="1569463507409" duration="512000" />
+      <workItem from="1569464053342" duration="3486000" />
+      <workItem from="1569477369802" duration="26000" />
+      <workItem from="1569480731240" duration="2030000" />
+      <workItem from="1569493864326" duration="1032000" />
+      <workItem from="1569496396161" duration="720000" />
+      <workItem from="1569547399381" duration="19000" />
+      <workItem from="1570156165385" duration="306000" />
+      <workItem from="1570328936094" duration="652000" />
+      <workItem from="1571188947270" duration="363000" />
+      <workItem from="1571189344392" duration="1994000" />
+      <workItem from="1573128676619" duration="3175000" />
+      <workItem from="1574251984049" duration="675000" />
+      <workItem from="1574298672952" duration="1919000" />
+      <workItem from="1574343850704" duration="591000" />
+      <workItem from="1574385759381" duration="1410000" />
+      <workItem from="1574476719004" duration="1847000" />
+      <workItem from="1574645780886" duration="967000" />
+      <workItem from="1574734857633" duration="65000" />
+      <workItem from="1574735369045" duration="281000" />
+      <workItem from="1574770015544" duration="59000" />
+      <workItem from="1574770393385" duration="1574000" />
+      <workItem from="1575855602718" duration="714000" />
+      <workItem from="1576584449939" duration="423000" />
+      <workItem from="1576587304946" duration="613000" />
+      <workItem from="1576631341631" duration="2906000" />
+      <workItem from="1576656270950" duration="241000" />
+      <workItem from="1576761107649" duration="1110000" />
+      <workItem from="1576805166496" duration="2719000" />
+      <workItem from="1576896199635" duration="1674000" />
+      <workItem from="1577449873811" duration="28000" />
+      <workItem from="1577523077674" duration="696000" />
+      <workItem from="1578991879073" duration="1164000" />
+      <workItem from="1579440179631" duration="888000" />
+      <workItem from="1579531493570" duration="187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NettyClientBootstrap.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/service/ZookeeperCuratorUtil.java</url>
+          <line>186</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/service/ZookeeperCuratorUtil.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NettyClientBootstrap.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/DefaultBalanceProvider.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/server/SocketServer.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/netty/AuthHandler.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/strategy/SendStrategy.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/NettyClientBootstrap.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/strategy/SendStrategy.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/mq/DefaultMqProduce.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/strategy/SendStrategy.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/strategy/StrategyContext.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/redis/AbstractRedisCacheService.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/netty/ServerHandler.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/netty/AuthHandler.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/redis/JWT.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/redis/JWTTokenGenerator.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/redis/AbstractRedisCacheService.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="in.readableBytes()" language="JAVA" />
+        <watch expression="in.readInt()" language="JAVA" />
+        <watch expression="registContext.getData()" language="JAVA" />
+        <watch expression="data.getBalance()" language="JAVA" />
+        <watch expression="builder.toString()" language="JAVA" />
+        <watch expression="content.getBytes(writePath,&quot;uft-8&quot;)" language="JAVA" />
+        <watch expression="((HashMap) zkCacheMap).entrySet" language="JAVA" />
+        <watch expression="zkCacheMap.keySet()" language="JAVA" />
+        <watch expression="builder.toString()" language="JAVA" />
+        <watch expression="builder.toString().getBytes()" language="JAVA" />
+        <watch expression="builder.toString().getBytes(&quot;utf-8&quot;)" language="JAVA" />
+        <watch expression="content" language="JAVA" />
+        <watch expression="NettyChannelMap.get(3)" language="JAVA" />
+        <watch expression="NettyChannelMap.map.entrySet()" language="JAVA" />
+        <watch expression="key.getObjectKey()" language="JAVA" />
+        <watch expression="key.getKey()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>key.getKey()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>key.getObjectKey()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NettyChannelMap.map.entrySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>NettyChannelMap.get(3)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>content</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder.toString().getBytes(&quot;utf-8&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder.toString().getBytes()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>builder.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>zkCacheMap.keySet()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((HashMap) zkCacheMap).entrySet</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
